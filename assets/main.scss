@@ -253,8 +253,12 @@ body {
 	to accomodate both the header column and the content column */
 	.wrapper {
 		width: 480px;
+
 	}
 
+  .author-container{
+    font-size: 0.3em;
+  }
 
 	main {
 		width: 46%;

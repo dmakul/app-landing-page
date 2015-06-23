@@ -78,7 +78,7 @@ body {
 }
 
 .cont-contactBtn {
-  margin-left: 1%;
+  margin-left: 7%;
 	position: relative;
 
 	@include perspective(800px);
@@ -125,9 +125,9 @@ body {
       color: #000;
       text-align: center;
 			margin-bottom: 8px;
-      margin-left: 16%;
+      margin-left: -15%;
       height: 2em;
-			width: 63%;
+			width: 130%;
 		}
 
 		.gutter {
@@ -146,8 +146,8 @@ body {
 			border: none;
 			color: #fff;
 			height: 55px;
-			width: 40%;
-      margin-left: 28%;
+			width: 60%;
+      margin-left: 20%;
 			text-align: center;
 		}
 

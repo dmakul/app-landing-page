@@ -246,9 +246,6 @@ body {
 		margin: 5% auto;
 
 	}
-  .author-container{
-    font-size: 0.3em;
-  }
 }
 
 /* All other devices (768px and up) */
@@ -256,13 +253,10 @@ body {
 	/* past 768px the layout is changed and the wrapper has a fixed width of 680px
 	to accomodate both the header column and the content column */
 	.wrapper {
-		width: 480px;
+		width: 680px;
 
 	}
 
-  .author-container{
-    font-size: 0.3em;
-  }
 
 	main {
 		width: 46%;

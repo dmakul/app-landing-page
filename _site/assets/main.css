@@ -1,10 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway);
 body {
   background-image: url("../Superma.jpg");
-  background-size: cover; }
-
-a, p {
-  font-family: 'Roboto', sans-serif; }
+  background-size: cover;
+  font-family: 'Helvetica Neue', serif;
+  color: #fff; }
 
 .cont-contactInfo {
   float: left;
@@ -43,7 +42,6 @@ a, p {
     transform-style: preserve-3d;
     width: 100%; }
     .cont-contactBtn .cont-flip .front, .cont-contactBtn .cont-flip .back {
-      font-family: 'Roboto', sans-serif;
       display: block;
       margin: 0;
       height: 100%;
@@ -74,10 +72,9 @@ a, p {
       color: #000;
       text-align: center;
       margin-bottom: 8px;
-      margin-left: -15%;
+      margin-left: 16%;
       height: 2em;
-      padding-left: 3%;
-      width: 130%; }
+      width: 63%; }
     .cont-contactBtn .contact-form .gutter {
       margin-right: 2.8%; }
     .cont-contactBtn .contact-form textarea {
@@ -90,8 +87,8 @@ a, p {
       border: none;
       color: #fff;
       height: 55px;
-      width: 60%;
-      margin-left: 23%;
+      width: 40%;
+      margin-left: 28%;
       text-align: center; }
   .cont-contactBtn .close {
     display: block;
@@ -135,14 +132,10 @@ a, p {
   font-size: 1.3em;
   transition: 0.7s; }
 
-body {
-  font-family: 'Roboto', serif;
-  color: #fff;
-  background-color: #fff; }
-
 /*** Author ***/
 .author-container h1 {
-  font-weight: 400;
+  font-weight: 100;
+  font-family: "Oswald" , serif;
   font-size: 4.8em;
   margin-top: 1.6em;
   margin-bottom: 0;
@@ -151,7 +144,7 @@ body {
 /*** Tagline ***/
 .tagline-container p {
   font-size: 1.7em;
-  font-weight: 100;
+  font-weight: 200;
   text-align: center;
   margin-bottom: 2em; }
 
